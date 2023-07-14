@@ -2,7 +2,7 @@
 
 
 >## 0. :goal_net: Purpose 
-A runbook is an operational reference which is used to describe an service in a deployed environment including Operational information, dependencies and infrastructure details. It should be easy to read, consistent across all applications, and accurate. 
+A runbook is an operational reference which is used to describe a service in a deployed environment including Operational information, dependencies and infrastructure details. It should be easy to read, consistent across all applications, and accurate. 
 
 >## 1. :bulb: Overview
 `The overview section provides a general description of the application. It provides enough information for someone unfamiliar with the application to understand what it is used for and how to find additional information if necessary. It should provide additional links such as:`
