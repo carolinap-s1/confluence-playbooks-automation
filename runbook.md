@@ -61,5 +61,5 @@ Below is an example
 
 
 
->## 10. :arrows_counterclockwise: Backup and Recovery (*if applicable*)
+>## 8. :arrows_counterclockwise: Backup and Recovery (*if applicable*)
 `This runbook section describes the disaster recovery (DR) processes that are in place to ensure the system or data can be recovered in the event of an unexpected failure. At a minimum it should describe any automated backup procedures, the frequency and times they run, and the data retention policies for archived data. Be sure to provide information to any detailed DR plans which will be used to restore the system during a catastrophic outage or data loss.`
