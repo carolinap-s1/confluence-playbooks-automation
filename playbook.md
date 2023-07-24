@@ -1,6 +1,14 @@
-# Security Data Lake Playbook
-
-**Revision date:** 15.06.2023
+---
+Title: Playbook Name
+Product: Select a product from the SDL PD list sheet
+Service:  Select a service from the SDL PD list sheet
+Component: Select a component from the SDL PD list sheet
+Slack channel: #Slack-channel
+Documentation:
+  - https://mylinkhere.com
+  - https://otherlinkhere.com
+Revision Date: 2023-07-14
+---
 
 **Did this incident result in a customer incident situation in the past?**
 - [ ] Yes - Jira ticket number:
