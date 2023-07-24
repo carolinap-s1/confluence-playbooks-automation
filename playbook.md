@@ -20,6 +20,9 @@ Begin by providing a comprehensive description of the issue and how it manifests
 
 **Optional: User Experience:**
 Clearly explain how the issue is impacting the user experience (if there exists a known method to calculate the number of affected users, please provide details).
+**Optional: Business Impact:**
+Does this issue have broader implications beyond its technical aspects and significant consequences for the business? If you have specific details, please elaborate on how it directly affects the operations and outcomes of the business.
+
 
 ## Procedural Steps to Restore the Service
 
